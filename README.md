@@ -6,10 +6,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="AdeAyeni | LinkedIn" width="100px" src="https://assets.dryicons.com/uploads/icon/svg/6904/929fe990-8f44-43be-9c3a-5d2f84e2f56e.svg" />][linkedin]
 
-[instagram]: https://www.instagram.com/soulstatus/
 [linkedin]: https://linkedin.com/in/adeayeni
 
 <!--
