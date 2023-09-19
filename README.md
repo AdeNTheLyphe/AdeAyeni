@@ -3,6 +3,9 @@
 
 - <b>Azure / Cloud Cybersecurity Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/AdeNTheLyphe/AzureHoneyNet)
+ 
+- <b>Oracle Virtual Box / Administrator Project</b>
+  - [Creating an Active Directory Home Lab / Add Users w/PowerShell](https://github.com/AdeNTheLyphe/ActiveDirectory)
 
 - <b>SmartSheet / Project Management Examples</b>
   - [Creating a Project Management Schedule / RealPage Software Implementation](https://github.com/AdeNTheLyphe/ProjectManagement)
